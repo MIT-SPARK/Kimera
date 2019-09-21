@@ -11,3 +11,7 @@ If you found any of the above modules useful, we would really appreciate if you 
 ```
 TODO add bibtex
 ```
+
+## License
+
+[BSD License](LICENSE.BSD)
