@@ -25,7 +25,7 @@ Kimera comprises a fast and accurate VIO pipeline (Kimerar-VIO) with SLAM capabi
 ### [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)
 
 <div align="center">
-    <img src="kimera/docs/media/kimera_semantics.gif">
+    <img src="docs/media/kimera_semantics.gif">
 </div>
 
 ## Citation
