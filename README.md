@@ -12,7 +12,9 @@
 
 # Kimera
 
-Kimera comprises a fast and accurate VIO pipeline (Kimerar-VIO) with SLAM capabilities using Robust Pose Graph Optimization (Kimera-RPGO), a per-frame and multi-frame 3D Mesh generator (Kimera-Mesher), and a global semantically annotated 3D Mesh using a volumetric approach (Kimera-Semantics).
+Kimera comprises a fast and accurate VIO pipeline (Kimerar-VIO) with SLAM capabilities using Robust Pose Graph Optimization (Kimera-RPGO), a per-frame and multi-frame 3D Mesh generator (Kimera-Mesher), and a semantically annotated 3D Mesh using a volumetric approach (Kimera-Semantics).
+
+![overall_chart](./docs/media/kimera_chart_23.jpeg)
 
 ### [Kimera-VIO & Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO)
 
