@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://mit.edu/sparklab/">
+  <a href="http://mit.edu/sparklab/">
     <img align="left" src="docs/media/sparklab_logo.png" width="80" alt="sparklab">
   </a> 
   <a href="https://www.mit.edu/~arosinol/">
