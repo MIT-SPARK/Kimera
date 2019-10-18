@@ -16,7 +16,7 @@ Kimera is a C++ library for real-time metric-semantic simultaneous localization 
 
 Kimera comprises four modules: a fast and accurate Visual Inertial Odometry (VIO) pipeline ([Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO)), a full SLAM implementation based on Robust Pose Graph Optimization ([Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO)), a per-frame and multi-frame 3D mesh generator ([Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO)), and a generator of semantically annotated 3D meshes ([Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)).
 
-Please click on the following links to install Kimera's modules and get started!
+Click on the following links to install Kimera's modules and get started!
 
 ### [Kimera-VIO & Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO)
 
@@ -27,7 +27,7 @@ Please click on the following links to install Kimera's modules and get started!
 ### [Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO)
 
 <div align="center">
-    <img src="docs/media/RPGO.png" width="800">
+    <img src="docs/media/RPGO.png" width="700">
 </div>
 
 ### [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)
