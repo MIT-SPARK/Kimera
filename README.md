@@ -27,7 +27,7 @@ Please click on the following links to install Kimera's modules.
 ### [Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO)
 
 <div align="center">
-    <img src="docs/media/RPGO.png" width="42">
+    <img src="docs/media/RPGO.png" width="200">
 </div>
 
 ### [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)
