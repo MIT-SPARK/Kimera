@@ -1,11 +1,11 @@
 <div align="center">
   <a href="http://mit.edu/sparklab/">
     <img align="left" src="docs/media/sparklab_logo.png" width="80" alt="sparklab">
-  </a> 
+  </a>
   <a href="https://www.mit.edu/~arosinol/">
     <img align="center" src="docs/media/kimeravio_logo.png" width="150" alt="kimera">
-  </a> 
-  <a href="https://mit.edu"> 
+  </a>
+  <a href="https://mit.edu">
     <img align="right" src="docs/media/mit.png" width="100" alt="mit">
   </a>
 </div>
@@ -14,7 +14,7 @@
 
 Kimera is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment. Kimera is modular, ROS-enabled, and runs on a CPU.
 
-Kimera comprises four modules: 
+Kimera comprises four **modules**:
 - A fast and accurate Visual Inertial Odometry (VIO) pipeline ([Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO))
 - A full SLAM implementation based on Robust Pose Graph Optimization ([Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO))
 - A per-frame and multi-frame 3D mesh generator ([Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO))
