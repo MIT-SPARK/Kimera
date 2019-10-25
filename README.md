@@ -22,7 +22,7 @@ Kimera comprises four modules:
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=-5XxXRABXJs">
-    <img src="http://img.youtube.com/vi/-5XxXRABXJs/0.jpg" alt="Kimera">
+    <img src="docs/media/kimera_thumbnail.png" alt="Kimera">
     </a>
 </p>
 
