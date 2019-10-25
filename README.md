@@ -14,26 +14,42 @@
 
 Kimera is a C++ library for real-time metric-semantic simultaneous localization and mapping, which uses camera images and inertial data to build a semantically annotated 3D mesh of the environment. Kimera is modular, ROS-enabled, and runs on a CPU.
 
-Kimera comprises four modules: a fast and accurate Visual Inertial Odometry (VIO) pipeline ([Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO)), a full SLAM implementation based on Robust Pose Graph Optimization ([Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO)), a per-frame and multi-frame 3D mesh generator ([Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO)), and a generator of semantically annotated 3D meshes ([Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)).
+Kimera comprises four modules: 
+- A fast and accurate Visual Inertial Odometry (VIO) pipeline ([Kimera-VIO](https://github.com/MIT-SPARK/Kimera-VIO))
+- A full SLAM implementation based on Robust Pose Graph Optimization ([Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO))
+- A per-frame and multi-frame 3D mesh generator ([Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO))
+- And a generator of semantically annotated 3D meshes ([Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics))
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=-5XxXRABXJs">
+    <img src="http://img.youtube.com/vi/-5XxXRABXJs/0.jpg" alt="Kimera">
+    </a>
+</p>
 
 Click on the following links to install Kimera's modules and get started! It is very easy to install!
 
 ### [Kimera-VIO & Kimera-Mesher](https://github.com/MIT-SPARK/Kimera-VIO)
 
 <div align="center">
-  <img src="docs/media/kimeravio_ROS_mesh.gif"/>
+    <a href="https://github.com/MIT-SPARK/Kimera-VIO">
+      <img src="docs/media/kimeravio_ROS_mesh.gif" alt="Kimera-VIO">
+   </a>
 </div>
 
 ### [Kimera-RPGO](https://github.com/MIT-SPARK/Kimera-RPGO)
 
 <div align="center">
-    <img src="docs/media/RPGO.png" width="700">
+  <a href="https://github.com/MIT-SPARK/Kimera-RPGO">
+    <img src="docs/media/RPGO.png" width="700" alt="Kimera-RPGO">
+  </a>
 </div>
 
 ### [Kimera-Semantics](https://github.com/MIT-SPARK/Kimera-Semantics)
 
 <div align="center">
-    <img src="docs/media/kimera_semantics.gif">
+  <a href="https://github.com/MIT-SPARK/Kimera-Semantics">
+    <img src="docs/media/kimera_semantics.gif" alt="Kimera-Semantics">
+  </a>
 </div>
 
 ### Chart
@@ -44,7 +60,7 @@ Click on the following links to install Kimera's modules and get started! It is 
 If you found any of the above modules useful, we would really appreciate if you could cite our work:
 
  - A. Rosinol, M. Abate, Y. Chang, L. Carlone. [**Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping**](https://arxiv.org/abs/1910.02490). arXiv preprint [arXiv:1910.02490](https://arxiv.org/abs/1910.02490).
- ```
+ ```bibtex
  @misc{Rosinol19arxiv-Kimera,
    title = {Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping},
    author = {Rosinol, Antoni and Abate, Marcus and Chang, Yun and Carlone, Luca},
