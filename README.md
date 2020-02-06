@@ -73,6 +73,10 @@ If you found any of the above modules useful, we would really appreciate if you 
  }
 ```
 
+## Acknowledgments
+
+Kimera was partially funded by the [DCIST](https://www.dcist.org/) (Distributed and Collaborative Intelligent Systems and Technology) Collaborative Research Alliance. 
+
 ## License
 
 [BSD License](LICENSE.BSD)
