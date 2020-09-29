@@ -57,9 +57,22 @@ Click on the following links to install Kimera's modules and get started! It is 
 ![overall_chart](./docs/media/kimera_chart_23.jpeg)
 
 ## Citation
+
 If you found any of the above modules useful, we would really appreciate if you could cite our work:
 
- - A. Rosinol, M. Abate, Y. Chang, L. Carlone. [**Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping**](https://arxiv.org/abs/1910.02490). IEEE Intl. Conf. on Robotics and Automation (ICRA), 2020.
+- [1] A. Rosinol, T. Sattler, M. Pollefeys, L. Carlone. [**Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities**](https://arxiv.org/abs/1903.01067). IEEE Int. Conf. on Robotics and Automation (ICRA), 2019. [arXiv:1903.01067](https://arxiv.org/abs/1903.01067)
+
+```bibtex
+@inproceedings{Rosinol19-incremental,
+  title = {Incremental visual-inertial 3d mesh generation with structural regularities},
+  author = {Rosinol, Antoni and Sattler, Torsten and Pollefeys, Marc and Carlone, Luca},
+  year = {2019},
+  booktitle = {2019 International Conference on Robotics and Automation (ICRA)},
+  pdf = {https://arxiv.org/pdf/1903.01067.pdf}
+}
+```
+
+- [2] A. Rosinol, M. Abate, Y. Chang, L. Carlone, [**Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping**](https://arxiv.org/abs/1910.02490). IEEE Intl. Conf. on Robotics and Automation (ICRA), 2020. [arXiv:1910.02490](https://arxiv.org/abs/1910.02490).
  
  ```bibtex
  @InProceedings{Rosinol20icra-Kimera,
@@ -70,6 +83,18 @@ If you found any of the above modules useful, we would really appreciate if you 
    url = {https://github.com/MIT-SPARK/Kimera},
    pdf = {https://arxiv.org/pdf/1910.02490.pdf}
  }
+```
+
+- [3] A. Rosinol, A. Gupta, M. Abate, J. Shi, L. Carlone. [**3D Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans**](https://arxiv.org/abs/2002.06289). Robotics: Science and Systems (RSS), 2020. [arXiv:2002.06289](https://arxiv.org/abs/2002.06289).
+
+```bibtex
+@InProceedings{Rosinol20rss-dynamicSceneGraphs,
+  title = {{3D} Dynamic Scene Graphs: Actionable Spatial Perception with Places, Objects, and Humans},
+  author = {A. Rosinol and A. Gupta and M. Abate and J. Shi and L. Carlone},
+  year = {2020},
+  booktitle = {Robotics: Science and Systems (RSS)},
+  pdf = {https://arxiv.org/pdf/2002.06289.pdf}
+}
 ```
 
 ## Acknowledgments
