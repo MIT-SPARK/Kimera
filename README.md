@@ -63,7 +63,7 @@ If you found any of the above modules useful, we would really appreciate if you 
 - [1] A. Rosinol, T. Sattler, M. Pollefeys, L. Carlone. [**Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities**](https://arxiv.org/abs/1903.01067). IEEE Int. Conf. on Robotics and Automation (ICRA), 2019. [arXiv:1903.01067](https://arxiv.org/abs/1903.01067)
 
 ```bibtex
-@inproceedings{Rosinol19-incremental,
+@InProceedings{Rosinol19icra-incremental,
   title = {Incremental visual-inertial 3d mesh generation with structural regularities},
   author = {Rosinol, Antoni and Sattler, Torsten and Pollefeys, Marc and Carlone, Luca},
   year = {2019},
