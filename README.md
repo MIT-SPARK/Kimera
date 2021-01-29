@@ -97,9 +97,43 @@ If you found any of the above modules useful, we would really appreciate if you 
 }
 ```
 
+- [4] A. Rosinol, A. Gupta, M. Abate, J. Shi, L. Carlone. [**
+Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs
+**](https://arxiv.org/abs/2101.06894). [arXiv:2101.06894](https://arxiv.org/abs/2101.06894).
+
+```bibtex
+@InProceedings{Rosinol21arxiv-Kimera,
+  title = {{K}imera: from {SLAM} to Spatial Perception with {3D} Dynamic Scene Graphs},
+  author = {A. Rosinol, A. Violette, M. Abate, N. Hughes, Y. Chang, J. Shi, A. Gupta, L. Carlone},
+  year = {2021},
+  booktitle = {arxiv},
+  pdf = {https://arxiv.org/pdf/2101.06894.pdf}
+}
+```
+
+## Open-Source Datasets
+
+We use a photo-realistic Unity-based simulator to test Kimera.
+The simulator provides:
+- RGB Stereo camera (/tesse/left_cam, /tesse/right_cam)
+- Depth camera (/tesse/depth_cam)
+- Ground-truth 2D Semantic Segmentation (/tesse/seg_cam)
+- IMU data (/tesse/imu)
+- Ground-Truth Odometry (/tesse/odom)
+- 2D Lidar (/tesse/front_lidar/scan)
+- TF (ground-truth odometry of robots, and agents) (/tf)
+- Static TF (ground-truth poses of static objects) (/tf_static)
+  -
+Using this simulator, we created several large visual-inertial datasets which feature scenes with and without dynamic agents (humans), as well as a large variety of environments (indoors and outdoors, small and large).
+These are ideal to test your Metric-Semantic SLAM and/or other Spatial-AI systems!
+
+- [uHumans](http://web.mit.edu/sparklab/datasets/uHumans/) (released with [3])
+- [uHumans2](http://web.mit.edu/sparklab/datasets/uHumans2/) (released with [4])
+
 ## Acknowledgments
 
-Kimera was partially funded by the [DCIST](https://www.dcist.org/) (Distributed and Collaborative Intelligent Systems and Technology) Collaborative Research Alliance. 
+Kimera is partially funded by ARL [DCIST](https://www.dcist.org/), [ONR RAIDER](https://www.onr.navy.mil/), [MIT Lincoln Laboratory](https://www.ll.mit.edu/), and
+[“la Caixa” Foundation](https://becarioslacaixa.net/en/antoni-rosinol-vidal-B004789) (ID 100010434), LCF/BQ/AA18/11680088 (A. Rosinol).
 
 ## License
 
