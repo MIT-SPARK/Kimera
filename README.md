@@ -97,9 +97,7 @@ If you found any of the above modules useful, we would really appreciate if you 
 }
 ```
 
-- [4] A. Rosinol, A. Gupta, M. Abate, J. Shi, L. Carlone. [**
-Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs
-**](https://arxiv.org/abs/2101.06894). [arXiv:2101.06894](https://arxiv.org/abs/2101.06894).
+- [4] A. Rosinol, A. Gupta, M. Abate, J. Shi, L. Carlone. [**Kimera: from SLAM to Spatial Perception with 3D Dynamic Scene Graphs**](https://arxiv.org/abs/2101.06894). [arXiv:2101.06894](https://arxiv.org/abs/2101.06894).
 
 ```bibtex
 @InProceedings{Rosinol21arxiv-Kimera,
