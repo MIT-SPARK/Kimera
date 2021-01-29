@@ -123,7 +123,7 @@ The simulator provides:
 - 2D Lidar (/tesse/front_lidar/scan)
 - TF (ground-truth odometry of robots, and agents) (/tf)
 - Static TF (ground-truth poses of static objects) (/tf_static)
-  -
+
 Using this simulator, we created several large visual-inertial datasets which feature scenes with and without dynamic agents (humans), as well as a large variety of environments (indoors and outdoors, small and large).
 These are ideal to test your Metric-Semantic SLAM and/or other Spatial-AI systems!
 
