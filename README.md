@@ -113,14 +113,14 @@ If you found any of the above modules useful, we would really appreciate if you 
 
 In addition to the [real-life tests](http://ci-sparklab.mit.edu:8080/job/MIT-SPARK-Kimera/job/master/VIO_20Euroc_20Performance_20Report/) on the [Euroc](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) dataset, we use a photo-realistic Unity-based simulator to test Kimera.
 The simulator provides:
-- RGB Stereo camera (/tesse/left_cam, /tesse/right_cam)
-- Depth camera (/tesse/depth_cam)
-- Ground-truth 2D Semantic Segmentation (/tesse/seg_cam)
-- IMU data (/tesse/imu)
-- Ground-Truth Odometry (/tesse/odom)
-- 2D Lidar (/tesse/front_lidar/scan)
-- TF (ground-truth odometry of robots, and agents) (/tf)
-- Static TF (ground-truth poses of static objects) (/tf_static)
+- RGB Stereo camera
+- Depth camera
+- Ground-truth 2D Semantic Segmentation
+- IMU data
+- Ground-Truth Odometry
+- 2D Lidar
+- TF (ground-truth odometry of robots, and agents)
+- Static TF (ground-truth poses of static objects)
 
 Using this simulator, we created several large visual-inertial datasets which feature scenes with and without dynamic agents (humans), as well as a large variety of environments (indoors and outdoors, small and large).
 These are ideal to test your Metric-Semantic SLAM and/or other Spatial-AI systems!
