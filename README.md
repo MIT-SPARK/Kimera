@@ -111,7 +111,7 @@ If you found any of the above modules useful, we would really appreciate if you 
 
 ## Open-Source Datasets
 
-We use a photo-realistic Unity-based simulator to test Kimera.
+In addition to the [real-life tests](http://ci-sparklab.mit.edu:8080/job/MIT-SPARK-Kimera/job/master/VIO_20Euroc_20Performance_20Report/) on the [Euroc](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) dataset, we use a photo-realistic Unity-based simulator to test Kimera.
 The simulator provides:
 - RGB Stereo camera (/tesse/left_cam, /tesse/right_cam)
 - Depth camera (/tesse/depth_cam)
